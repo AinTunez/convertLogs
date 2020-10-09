@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "convertLogs": {
+      "commandName": "Project",
+      "commandLineArgs": "-f \"files.zip\""
+    }
+  }
+}
